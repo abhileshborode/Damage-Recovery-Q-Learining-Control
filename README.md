@@ -39,7 +39,7 @@ rosrun rl expfast
 ## Optimizations
 
 <figure>
- <img src="./op.png" width="712" alt="Combined Image" />
+ <img src="./Images/op.png" width="712" alt="Combined Image" />
  <figcaption>
  <p></p> 
  </figcaption>
