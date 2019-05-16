@@ -49,6 +49,15 @@ rosrun rl expfast
 
 ## Results
 
+* Training Episode
+
+[![Demo video](Images/g1.gif)]
+
+* Exploting(Testing) Episode
+
+[![Demo video](Images/g2.gif)]
+
+* Time lapse for Not-Trained, Trained and Tested Episodes
 <figure>
  <img src="./Images/result.png" width="712" alt="Combined Image" />
  <figcaption>
